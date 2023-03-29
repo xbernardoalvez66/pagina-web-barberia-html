@@ -1,5 +1,5 @@
 # pagina-web-barberia-html
- tecnologias utilizdas:HTML5,CSS3,responsive design
+ tecnologias utilizadas:HTML5,CSS3,responsive design
  
  
 ## link del proyecto
